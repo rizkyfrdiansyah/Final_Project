@@ -9,7 +9,7 @@
 1. Open terminal and type
    mysql-u (your username) -p (your pass)
 2. Create database
-   create database inventory_management
+   create database mygramm
 
 ## Running the Application
 
