@@ -52,5 +52,5 @@ The application will run on http://localhost:8080 by default.
 
 ## Koleksi Postman
 
-Anda dapat menemukan koleksi Postman untuk API kami di [sini](https://api.postman.com/collections/23870699-e42c594b-4593-4cbf-b742-599ae0152801?access_key=PMAT-01HSV6GXN08KM9GWGH73AK535T).
+ Dapat menemukan koleksi Postman untuk API di [sini](https://api.postman.com/collections/23870699-e42c594b-4593-4cbf-b742-599ae0152801?access_key=PMAT-01HSV6GXN08KM9GWGH73AK535T).
 
